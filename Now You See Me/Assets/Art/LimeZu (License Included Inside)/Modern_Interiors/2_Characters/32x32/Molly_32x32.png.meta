@@ -1,0 +1,1072 @@
+fileFormatVersion: 2
+guid: 8278ad88104c3dc49800328bb298e1d8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3946971024003761628
+    second: Molly_32x32_0
+  - first:
+      213: -2245291499178003740
+    second: Molly_32x32_1
+  - first:
+      213: -2591677367050230976
+    second: Molly_32x32_2
+  - first:
+      213: 6367110765615878047
+    second: Molly_32x32_3
+  - first:
+      213: 4494935094638127685
+    second: Molly_32x32_4
+  - first:
+      213: -817390913935700750
+    second: Molly_32x32_5
+  - first:
+      213: -4964757637242197139
+    second: Molly_32x32_6
+  - first:
+      213: 7372653666431721191
+    second: Molly_32x32_7
+  - first:
+      213: 7368140320825087472
+    second: Molly_32x32_8
+  - first:
+      213: 4800752459326747362
+    second: Molly_32x32_9
+  - first:
+      213: -2884256186240313743
+    second: Molly_32x32_10
+  - first:
+      213: 3558686700729350366
+    second: Molly_32x32_11
+  - first:
+      213: -6296833025336764851
+    second: Molly_32x32_12
+  - first:
+      213: 944866702667400337
+    second: Molly_32x32_13
+  - first:
+      213: -3076114060124117460
+    second: Molly_32x32_14
+  - first:
+      213: 5363571471901175593
+    second: Molly_32x32_15
+  - first:
+      213: -8253807679282652041
+    second: Molly_32x32_16
+  - first:
+      213: 7241681379316863943
+    second: Molly_32x32_17
+  - first:
+      213: -675562612113684877
+    second: Molly_32x32_18
+  - first:
+      213: -6486451024807627883
+    second: Molly_32x32_19
+  - first:
+      213: 3116593159529650837
+    second: Molly_32x32_20
+  - first:
+      213: 3725690154578815816
+    second: Molly_32x32_21
+  - first:
+      213: 7427511121555625973
+    second: Molly_32x32_22
+  - first:
+      213: 3722339408979691153
+    second: Molly_32x32_23
+  - first:
+      213: -4029572339343391939
+    second: Molly_32x32_24
+  - first:
+      213: 8319267363654673304
+    second: Molly_32x32_25
+  - first:
+      213: 6634727875855180679
+    second: Molly_32x32_26
+  - first:
+      213: 8925865822370309459
+    second: Molly_32x32_27
+  - first:
+      213: -7302614714706072047
+    second: Molly_32x32_28
+  - first:
+      213: 6684563776224425003
+    second: Molly_32x32_29
+  - first:
+      213: -1507823706982317208
+    second: Molly_32x32_30
+  - first:
+      213: 3163305925228125396
+    second: Molly_32x32_31
+  - first:
+      213: 7127840397368114608
+    second: Molly_32x32_32
+  - first:
+      213: 3687132480458398908
+    second: Molly_32x32_33
+  - first:
+      213: -2294547202509892593
+    second: Molly_32x32_34
+  - first:
+      213: -4820865547872962926
+    second: Molly_32x32_35
+  - first:
+      213: -6785720661410915371
+    second: Molly_32x32_36
+  - first:
+      213: -1064310983650363583
+    second: Molly_32x32_37
+  - first:
+      213: 1557077551923330899
+    second: Molly_32x32_38
+  - first:
+      213: -5681933103146219380
+    second: Molly_32x32_39
+  - first:
+      213: 4104468697834061319
+    second: Molly_32x32_0
+  - first:
+      213: 8515930674389400469
+    second: Molly_32x32_1
+  - first:
+      213: 9113401864603335503
+    second: Molly_32x32_2
+  - first:
+      213: -3705532545863982451
+    second: Molly_32x32_3
+  - first:
+      213: 7357429968255123902
+    second: Molly_32x32_4
+  - first:
+      213: -5645296394325013284
+    second: Molly_32x32_5
+  - first:
+      213: -6385177831513222100
+    second: Molly_32x32_6
+  - first:
+      213: 7125433570554200672
+    second: Molly_32x32_7
+  - first:
+      213: -7324198022375458906
+    second: Molly_32x32_8
+  - first:
+      213: 4990812780159668134
+    second: Molly_32x32_9
+  - first:
+      213: 6541839793401001935
+    second: Molly_32x32_10
+  - first:
+      213: 6838361985499049112
+    second: Molly_32x32_11
+  - first:
+      213: 406863665823317749
+    second: Molly_32x32_12
+  - first:
+      213: -1732323198789603790
+    second: Molly_32x32_13
+  - first:
+      213: -5434186482970544247
+    second: Molly_32x32_14
+  - first:
+      213: 150089098719886546
+    second: Molly_32x32_15
+  - first:
+      213: 2989282308145801298
+    second: Molly_32x32_16
+  - first:
+      213: 5539813835036756261
+    second: Molly_32x32_17
+  - first:
+      213: 1296924108597610674
+    second: Molly_32x32_18
+  - first:
+      213: 4052136969152345767
+    second: Molly_32x32_19
+  - first:
+      213: -4119514503853905647
+    second: Molly_32x32_20
+  - first:
+      213: -2190799816228016420
+    second: Molly_32x32_21
+  - first:
+      213: -7190973720833861222
+    second: Molly_32x32_22
+  - first:
+      213: -5385843562813788009
+    second: Molly_32x32_23
+  - first:
+      213: 5809033091991770676
+    second: Molly_32x32_24
+  - first:
+      213: -2965795953178748436
+    second: Molly_32x32_25
+  - first:
+      213: -8681589391025448522
+    second: Molly_32x32_26
+  - first:
+      213: 8666040809160318913
+    second: Molly_32x32_27
+  - first:
+      213: -6710315308043620916
+    second: Molly_32x32_28
+  - first:
+      213: -141131640669053015
+    second: Molly_32x32_29
+  - first:
+      213: 8448026980948461830
+    second: Molly_32x32_30
+  - first:
+      213: 5828231778675321897
+    second: Molly_32x32_31
+  - first:
+      213: -5297337640743863342
+    second: Molly_32x32_32
+  - first:
+      213: -5280387056816275708
+    second: Molly_32x32_33
+  - first:
+      213: -8035169619822989473
+    second: Molly_32x32_34
+  - first:
+      213: -7462081268958175322
+    second: Molly_32x32_35
+  - first:
+      213: 4965179721911793755
+    second: Molly_32x32_36
+  - first:
+      213: 8690741993749913866
+    second: Molly_32x32_37
+  - first:
+      213: 2133079777963752517
+    second: Molly_32x32_38
+  - first:
+      213: 3523807328873573701
+    second: Molly_32x32_39
+  - first:
+      213: 982102762539781613
+    second: Molly_32x32_40
+  - first:
+      213: 7184355513185330758
+    second: Molly_32x32_41
+  - first:
+      213: -8298239369019662790
+    second: Molly_32x32_42
+  - first:
+      213: 704532710753087534
+    second: Molly_32x32_43
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Molly_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70efb16c88006f830800000000000000
+      internalID: 4104468697834061319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molly_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b35da34d9ae2670800000000000000
+      internalID: 8515930674389400469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molly_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b701306be497e70800000000000000
+      internalID: 9113401864603335503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molly_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82e02448cd439cc0800000000000000
+      internalID: -3705532545863982451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molly_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb109a52397da1660800000000000000
+      internalID: 7357429968255123902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molly_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcc674e6d0e7a1b0800000000000000
+      internalID: -5645296394325013284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molly_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2494f4a79a4367a0800000000000000
+      internalID: -6385177831513222100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molly_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062c68b8410a2e260800000000000000
+      internalID: 7125433570554200672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molly_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a731b334b83b5a90800000000000000
+      internalID: -7324198022375458906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molly_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af85e5f7cde24540800000000000000
+      internalID: 4990812780159668134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molly_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc77e27c1a849ca50800000000000000
+      internalID: 6541839793401001935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molly_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ca43f9efdb6ee50800000000000000
+      internalID: 6838361985499049112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molly_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe7961395875a500800000000000000
+      internalID: 406863665823317749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molly_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e2afb9a3d85f7e0800000000000000
+      internalID: -1732323198789603790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molly_32x32_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987bf4f6f24e594b0800000000000000
+      internalID: -5434186482970544247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molly_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc7bd57d39351200800000000000000
+      internalID: 150089098719886546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molly_32x32_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258e36edb601c7920800000000000000
+      internalID: 2989282308145801298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molly_32x32_17
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529092fe45f51ec40800000000000000
+      internalID: 5539813835036756261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molly_32x32_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8c999fa999ff110800000000000000
+      internalID: 1296924108597610674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molly_32x32_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6bd83ba151c3830800000000000000
+      internalID: 4052136969152345767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molly_32x32_20
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119e7b6826b84d6c0800000000000000
+      internalID: -4119514503853905647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molly_32x32_21
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdeecbbac27b891e0800000000000000
+      internalID: -2190799816228016420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molly_32x32_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9957841087843c90800000000000000
+      internalID: -7190973720833861222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molly_32x32_23
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790f8a6a0d3a145b0800000000000000
+      internalID: -5385843562813788009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molly_32x32_24
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43698a0d1d4dd9050800000000000000
+      internalID: 5809033091991770676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molly_32x32_25
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce95d764b4067d6d0800000000000000
+      internalID: -2965795953178748436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molly_32x32_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9d026227cc48780800000000000000
+      internalID: -8681589391025448522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molly_32x32_27
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf1a078336f34870800000000000000
+      internalID: 8666040809160318913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molly_32x32_28
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccda135b7cb20e2a0800000000000000
+      internalID: -6710315308043620916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molly_32x32_29
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 0
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af5a5345899a0ef0800000000000000
+      internalID: -141131640669053015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molly_32x32_30
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609495497cb6d3570800000000000000
+      internalID: 8448026980948461830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molly_32x32_31
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ce5946ce902e050800000000000000
+      internalID: 5828231778675321897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molly_32x32_32
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbf7247b731c76b0800000000000000
+      internalID: -5297337640743863342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molly_32x32_33
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 0
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f35e1d2fb48b6b0800000000000000
+      internalID: -5280387056816275708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: be719c8d64066421ba9fe1269d9ac50a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

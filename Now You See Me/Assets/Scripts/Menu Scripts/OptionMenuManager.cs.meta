@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6b714dab884e6104ea485d3dbbcf3e24
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameAudioMixer: {fileID: 24100000, guid: 9a72d419f44b73942862ad2d76ebf812, type: 2}
+  - slider: {instanceID: 0}
+  - fullscreenToggle: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

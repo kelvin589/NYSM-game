@@ -1,0 +1,1042 @@
+fileFormatVersion: 2
+guid: e6f533e6e064a3e458ed99a5ff40c1b8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1084210887236338062
+    second: Baliey spritesheet_0
+  - first:
+      213: -2024419178108307513
+    second: Baliey spritesheet_1
+  - first:
+      213: -2640136699979978242
+    second: Baliey spritesheet_2
+  - first:
+      213: 3305389228489937657
+    second: Baliey spritesheet_3
+  - first:
+      213: 7555417452670267857
+    second: Baliey spritesheet_4
+  - first:
+      213: -3040208503409648642
+    second: Baliey spritesheet_5
+  - first:
+      213: -7368341585345447645
+    second: Baliey spritesheet_6
+  - first:
+      213: 7647618192260783788
+    second: Baliey spritesheet_7
+  - first:
+      213: -4503613905120089780
+    second: Baliey spritesheet_8
+  - first:
+      213: -6023713512020865311
+    second: Baliey spritesheet_9
+  - first:
+      213: -3926823627884532867
+    second: Baliey spritesheet_10
+  - first:
+      213: 5074568388949415322
+    second: Baliey spritesheet_11
+  - first:
+      213: 7722879965942454136
+    second: Baliey spritesheet_12
+  - first:
+      213: 7374679154356031750
+    second: Baliey spritesheet_13
+  - first:
+      213: 3939337189680478243
+    second: Baliey spritesheet_14
+  - first:
+      213: 6359915932967931664
+    second: Baliey spritesheet_15
+  - first:
+      213: -1998209876051364043
+    second: Baliey spritesheet_16
+  - first:
+      213: -3396353073351306073
+    second: Baliey spritesheet_17
+  - first:
+      213: -2877473730132549967
+    second: Baliey spritesheet_18
+  - first:
+      213: 3529497627705410863
+    second: Baliey spritesheet_19
+  - first:
+      213: -8704170255506043842
+    second: Baliey spritesheet_20
+  - first:
+      213: -8228414262071866831
+    second: Baliey spritesheet_21
+  - first:
+      213: 752862222714771328
+    second: Baliey spritesheet_22
+  - first:
+      213: -4776530063085886834
+    second: Baliey spritesheet_23
+  - first:
+      213: -7269701374780363904
+    second: Baliey spritesheet_24
+  - first:
+      213: 3303489128029758152
+    second: Baliey spritesheet_25
+  - first:
+      213: 1111706711612464459
+    second: Baliey spritesheet_26
+  - first:
+      213: 7833462140322559743
+    second: Baliey spritesheet_27
+  - first:
+      213: -2489250700447707135
+    second: Baliey spritesheet_28
+  - first:
+      213: -6642803271100466719
+    second: Baliey spritesheet_29
+  - first:
+      213: 7941116650138023514
+    second: Baliey spritesheet_30
+  - first:
+      213: -3605045462484747912
+    second: Baliey spritesheet_31
+  - first:
+      213: 3582944365790951815
+    second: Baliey spritesheet_32
+  - first:
+      213: 1298683484589332564
+    second: Baliey spritesheet_33
+  - first:
+      213: 4449110257459544578
+    second: Baliey spritesheet_34
+  - first:
+      213: -1982901812892669806
+    second: Baliey spritesheet_35
+  - first:
+      213: 6563367400315571744
+    second: Baliey spritesheet_36
+  - first:
+      213: -8681609610133124665
+    second: Baliey spritesheet_37
+  - first:
+      213: 141770927788064176
+    second: Baliey spritesheet_38
+  - first:
+      213: 3589845921487389537
+    second: Baliey spritesheet_39
+  - first:
+      213: 753610845076899066
+    second: Baliey spritesheet_0
+  - first:
+      213: 8203068182006552769
+    second: Baliey spritesheet_1
+  - first:
+      213: -4910367123456674346
+    second: Baliey spritesheet_2
+  - first:
+      213: 6700378566929942280
+    second: Baliey spritesheet_3
+  - first:
+      213: 3433135328399354909
+    second: Baliey spritesheet_4
+  - first:
+      213: -4077980456030427735
+    second: Baliey spritesheet_5
+  - first:
+      213: -2148363752682493685
+    second: Baliey spritesheet_6
+  - first:
+      213: -1448615287638502162
+    second: Baliey spritesheet_7
+  - first:
+      213: -5030831277076753384
+    second: Baliey spritesheet_8
+  - first:
+      213: 8923458925746451099
+    second: Baliey spritesheet_9
+  - first:
+      213: 4960226814551115936
+    second: Baliey spritesheet_10
+  - first:
+      213: -7593069116656697302
+    second: Baliey spritesheet_11
+  - first:
+      213: -8469129388050320883
+    second: Baliey spritesheet_12
+  - first:
+      213: 3662747202518229770
+    second: Baliey spritesheet_13
+  - first:
+      213: -6549045736908515448
+    second: Baliey spritesheet_14
+  - first:
+      213: 599020605387738319
+    second: Baliey spritesheet_15
+  - first:
+      213: -5438081196135575355
+    second: Baliey spritesheet_16
+  - first:
+      213: 6278181426011621173
+    second: Baliey spritesheet_17
+  - first:
+      213: 182065234803674259
+    second: Baliey spritesheet_18
+  - first:
+      213: 3842427896513920089
+    second: Baliey spritesheet_19
+  - first:
+      213: 3666864200714232226
+    second: Baliey spritesheet_20
+  - first:
+      213: 1426959189391899137
+    second: Baliey spritesheet_21
+  - first:
+      213: 2508592827117869293
+    second: Baliey spritesheet_22
+  - first:
+      213: -5684483826684273627
+    second: Baliey spritesheet_23
+  - first:
+      213: 5703822526297754242
+    second: Baliey spritesheet_24
+  - first:
+      213: 6753308054107730211
+    second: Baliey spritesheet_25
+  - first:
+      213: 73394242271765615
+    second: Baliey spritesheet_26
+  - first:
+      213: -5199673184153582530
+    second: Baliey spritesheet_27
+  - first:
+      213: -6333036078564316356
+    second: Baliey spritesheet_28
+  - first:
+      213: -1250156777902116012
+    second: Baliey spritesheet_29
+  - first:
+      213: -1218075328473710854
+    second: Baliey spritesheet_30
+  - first:
+      213: -1608924914095238416
+    second: Baliey spritesheet_31
+  - first:
+      213: -6923445169399663174
+    second: Baliey spritesheet_32
+  - first:
+      213: 3476597485349415768
+    second: Baliey spritesheet_33
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Baliey spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4c0bf121d557a00800000000000000
+      internalID: 753610845076899066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baliey spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c85fc0cc0727d170800000000000000
+      internalID: 8203068182006552769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baliey spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5bb911e1fdadbb0800000000000000
+      internalID: -4910367123456674346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baliey spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80700867ec68cfc50800000000000000
+      internalID: 6700378566929942280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baliey spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c66134462f4af20800000000000000
+      internalID: 3433135328399354909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baliey spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5225d916a1867c0800000000000000
+      internalID: -4077980456030427735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baliey spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09e809ac8a7f22e0800000000000000
+      internalID: -2148363752682493685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baliey spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee45b1c221c75ebe0800000000000000
+      internalID: -1448615287638502162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baliey spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8145ae4ab95ee2ab0800000000000000
+      internalID: -5030831277076753384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baliey spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92f7ec4d9e76db70800000000000000
+      internalID: 8923458925746451099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baliey spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8cfa6e10446d440800000000000000
+      internalID: 4960226814551115936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baliey spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2040b24edfff9690800000000000000
+      internalID: -7593069116656697302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baliey spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02707461bb977a80800000000000000
+      internalID: -8469129388050320883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baliey spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03a724bc21b4d230800000000000000
+      internalID: 3662747202518229770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baliey spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88718c1c99d1d15a0800000000000000
+      internalID: -6549045736908515448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baliey spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc864d1116205800800000000000000
+      internalID: 599020605387738319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baliey spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c09b9cd6fd0884b0800000000000000
+      internalID: -5438081196135575355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baliey spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537c0e46eb4902750800000000000000
+      internalID: 6278181426011621173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baliey spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ccb6ecd53d68200800000000000000
+      internalID: 182065234803674259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baliey spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c73c650db035530800000000000000
+      internalID: 3842427896513920089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baliey spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a12b2b009153e230800000000000000
+      internalID: 3666864200714232226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baliey spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10afea882d39dc310800000000000000
+      internalID: 1426959189391899137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baliey spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8147a92ef40d220800000000000000
+      internalID: 2508592827117869293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baliey spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cd70bc318ac11b0800000000000000
+      internalID: -5684483826684273627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baliey spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a49d51e5c082f40800000000000000
+      internalID: 5703822526297754242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baliey spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32130e705e198bd50800000000000000
+      internalID: 6753308054107730211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baliey spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64ea2bacafb40100800000000000000
+      internalID: 73394242271765615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baliey spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34c66eb9cc07d7b0800000000000000
+      internalID: -5199673184153582530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baliey spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3be07b8d398c18a0800000000000000
+      internalID: -6333036078564316356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baliey spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 0
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453f89bb80d86aee0800000000000000
+      internalID: -1250156777902116012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baliey spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe38a041f6881fe0800000000000000
+      internalID: -1218075328473710854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baliey spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2d319a053fba9e0800000000000000
+      internalID: -1608924914095238416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baliey spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5f908ec4bfaef90800000000000000
+      internalID: -6923445169399663174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baliey spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 0
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ba44d3efa5f3030800000000000000
+      internalID: 3476597485349415768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4a97b5bf3dea248e19650c9b95cb3991
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

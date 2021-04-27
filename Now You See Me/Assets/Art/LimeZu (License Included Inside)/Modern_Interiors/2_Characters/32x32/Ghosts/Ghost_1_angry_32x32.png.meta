@@ -1,0 +1,1078 @@
+fileFormatVersion: 2
+guid: 9eb366a76bab10c41b223cb5c316165b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6555423042584541499
+    second: Ghost_1_angry_32x32_0
+  - first:
+      213: 9200499347338282670
+    second: Ghost_1_angry_32x32_1
+  - first:
+      213: -6236880407702387755
+    second: Ghost_1_angry_32x32_2
+  - first:
+      213: -803973470611531805
+    second: Ghost_1_angry_32x32_3
+  - first:
+      213: -6951436610624218091
+    second: Ghost_1_angry_32x32_4
+  - first:
+      213: -5426134196777102402
+    second: Ghost_1_angry_32x32_5
+  - first:
+      213: -7993080943105563700
+    second: Ghost_1_angry_32x32_6
+  - first:
+      213: -211026522395744727
+    second: Ghost_1_angry_32x32_7
+  - first:
+      213: 7115696404292770431
+    second: Ghost_1_angry_32x32_8
+  - first:
+      213: -8187489793099258704
+    second: Ghost_1_angry_32x32_9
+  - first:
+      213: 3916081342880022324
+    second: Ghost_1_angry_32x32_10
+  - first:
+      213: -1428403305004076975
+    second: Ghost_1_angry_32x32_11
+  - first:
+      213: 3435831171146399739
+    second: Ghost_1_angry_32x32_12
+  - first:
+      213: -1367536535990825541
+    second: Ghost_1_angry_32x32_13
+  - first:
+      213: 266504899963048440
+    second: Ghost_1_angry_32x32_14
+  - first:
+      213: -6482085805255136947
+    second: Ghost_1_angry_32x32_15
+  - first:
+      213: -1134707075904768961
+    second: Ghost_1_angry_32x32_16
+  - first:
+      213: 4584332044437704152
+    second: Ghost_1_angry_32x32_17
+  - first:
+      213: 3945197899377916811
+    second: Ghost_1_angry_32x32_18
+  - first:
+      213: 7044739274544672955
+    second: Ghost_1_angry_32x32_19
+  - first:
+      213: 4071527135403526979
+    second: Ghost_1_angry_32x32_20
+  - first:
+      213: 5861307708280115111
+    second: Ghost_1_angry_32x32_21
+  - first:
+      213: 5083031643499942870
+    second: Ghost_1_angry_32x32_22
+  - first:
+      213: 2494606350541721815
+    second: Ghost_1_angry_32x32_23
+  - first:
+      213: 5131037426623374834
+    second: Ghost_1_angry_32x32_24
+  - first:
+      213: 6516068877151906520
+    second: Ghost_1_angry_32x32_25
+  - first:
+      213: -3465865841170296206
+    second: Ghost_1_angry_32x32_26
+  - first:
+      213: -809638926057206118
+    second: Ghost_1_angry_32x32_27
+  - first:
+      213: 558669444190471218
+    second: Ghost_1_angry_32x32_28
+  - first:
+      213: 76115708123235177
+    second: Ghost_1_angry_32x32_29
+  - first:
+      213: -512519278539644020
+    second: Ghost_1_angry_32x32_30
+  - first:
+      213: -4331755538558143649
+    second: Ghost_1_angry_32x32_31
+  - first:
+      213: -4765269058513392261
+    second: Ghost_1_angry_32x32_32
+  - first:
+      213: -5494339921220379751
+    second: Ghost_1_angry_32x32_33
+  - first:
+      213: 2982075149630605653
+    second: Ghost_1_angry_32x32_34
+  - first:
+      213: -4298262848415136027
+    second: Ghost_1_angry_32x32_35
+  - first:
+      213: -6595578725921114802
+    second: Ghost_1_angry_32x32_36
+  - first:
+      213: -5616482753078302668
+    second: Ghost_1_angry_32x32_37
+  - first:
+      213: 6601762624897955825
+    second: Ghost_1_angry_32x32_38
+  - first:
+      213: -1804097122190078191
+    second: Ghost_1_angry_32x32_39
+  - first:
+      213: -1007727262419024939
+    second: Ghost_1_angry_32x32_40
+  - first:
+      213: 7703747592218729201
+    second: Ghost_1_angry_32x32_41
+  - first:
+      213: -452053935250370546
+    second: Ghost_1_angry_32x32_42
+  - first:
+      213: -1828771990603469398
+    second: Ghost_1_angry_32x32_43
+  - first:
+      213: -3101022339331736482
+    second: Ghost_1_angry_32x32_44
+  - first:
+      213: 6242275243368309572
+    second: Ghost_1_angry_32x32_45
+  - first:
+      213: 7903401102370041744
+    second: Ghost_1_angry_32x32_46
+  - first:
+      213: -1930358399156205287
+    second: Ghost_1_angry_32x32_47
+  - first:
+      213: 102505067427394693
+    second: Ghost_1_angry_32x32_48
+  - first:
+      213: 5499438790512461495
+    second: Ghost_1_angry_32x32_49
+  - first:
+      213: -563816255918591888
+    second: Ghost_1_angry_32x32_50
+  - first:
+      213: -6875521119657799367
+    second: Ghost_1_angry_32x32_51
+  - first:
+      213: 6286139703874754921
+    second: Ghost_1_angry_32x32_52
+  - first:
+      213: -5513430858581039803
+    second: Ghost_1_angry_32x32_53
+  - first:
+      213: -7885599907789615974
+    second: Ghost_1_angry_32x32_54
+  - first:
+      213: -6640319319344484609
+    second: Ghost_1_angry_32x32_55
+  - first:
+      213: 8547927504748331223
+    second: Ghost_1_angry_32x32_56
+  - first:
+      213: -8369549672472835733
+    second: Ghost_1_angry_32x32_57
+  - first:
+      213: 5398758354434809645
+    second: Ghost_1_angry_32x32_58
+  - first:
+      213: 1228504625788581709
+    second: Ghost_1_angry_32x32_59
+  - first:
+      213: -4801539444692109172
+    second: Ghost_1_angry_32x32_60
+  - first:
+      213: -4781927886074895406
+    second: Ghost_1_angry_32x32_61
+  - first:
+      213: -534005400038214704
+    second: Ghost_1_angry_32x32_62
+  - first:
+      213: 4292394889566420342
+    second: Ghost_1_angry_32x32_63
+  - first:
+      213: -7928089518575181502
+    second: Ghost_1_angry_32x32_64
+  - first:
+      213: 140641564860557570
+    second: Ghost_1_angry_32x32_65
+  - first:
+      213: 7280396859319146564
+    second: Ghost_1_angry_32x32_66
+  - first:
+      213: 6181847152097227771
+    second: Ghost_1_angry_32x32_67
+  - first:
+      213: -4916326179522960461
+    second: Ghost_1_angry_32x32_68
+  - first:
+      213: -7476331719365991931
+    second: Ghost_1_angry_32x32_69
+  - first:
+      213: -3323279753710774362
+    second: Ghost_1_angry_32x32_70
+  - first:
+      213: 7231138571752782645
+    second: Ghost_1_angry_32x32_71
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ghost_1_angry_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 96
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3979ad668a89fa50800000000000000
+      internalID: 6555423042584541499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_1_angry_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 96
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6cf4af86dbeaf70800000000000000
+      internalID: 9200499347338282670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_1_angry_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 96
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d34e4840562279a0800000000000000
+      internalID: -6236880407702387755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_1_angry_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 96
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e79c5b5366b7d4f0800000000000000
+      internalID: -803973470611531805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_1_angry_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c1911ab39878f90800000000000000
+      internalID: -6951436610624218091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_1_angry_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3508962bf72b4b0800000000000000
+      internalID: -5426134196777102402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_1_angry_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3af3d3b3fd21190800000000000000
+      internalID: -7993080943105563700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_1_angry_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9266a66fe78421df0800000000000000
+      internalID: -211026522395744727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_1_angry_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a156bdd2800c260800000000000000
+      internalID: 7115696404292770431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_1_angry_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4ae209961306e80800000000000000
+      internalID: -8187489793099258704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_1_angry_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 0
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ff5e9ab37b85630800000000000000
+      internalID: 3916081342880022324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_1_angry_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 0
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150fc3913ca4d2ce0800000000000000
+      internalID: -1428403305004076975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_1_angry_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 0
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff35601f368eaf20800000000000000
+      internalID: 3435831171146399739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_1_angry_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 0
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd06ea14c8850de0800000000000000
+      internalID: -1367536535990825541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_1_angry_32x32_14
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 0
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1d2356bc0d2b300800000000000000
+      internalID: 266504899963048440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_1_angry_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 0
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d496a2ebd410b06a0800000000000000
+      internalID: -6482085805255136947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_1_angry_32x32_16
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 0
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34f2982de5b040f0800000000000000
+      internalID: -1134707075904768961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_1_angry_32x32_17
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 0
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd4621a4b1de9f30800000000000000
+      internalID: 4584332044437704152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_1_angry_32x32_18
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8bb901469820c630800000000000000
+      internalID: 3945197899377916811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_1_angry_32x32_19
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 0
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb07a7aab01f3c160800000000000000
+      internalID: 7044739274544672955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_1_angry_32x32_20
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 0
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b47179b58f08830800000000000000
+      internalID: 4071527135403526979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_1_angry_32x32_21
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 0
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af8b4f5e4c875150800000000000000
+      internalID: 5861307708280115111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_1_angry_32x32_22
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 0
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d352e4495e8a8640800000000000000
+      internalID: 5083031643499942870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_1_angry_32x32_23
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 0
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d01972424f9e9220800000000000000
+      internalID: 2494606350541721815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_1_angry_32x32_24
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 0
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5ee17aa5b153740800000000000000
+      internalID: 5131037426623374834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_1_angry_32x32_25
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 0
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da2e92ce1abd6a50800000000000000
+      internalID: 6516068877151906520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_1_angry_32x32_26
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 0
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27252e16165c6efc0800000000000000
+      internalID: -3465865841170296206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_1_angry_32x32_27
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 0
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e0808bfa593c4f0800000000000000
+      internalID: -809638926057206118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_1_angry_32x32_28
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 0
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23486d746eac0c700800000000000000
+      internalID: 558669444190471218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_1_angry_32x32_29
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 0
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963438055da6e0100800000000000000
+      internalID: 76115708123235177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_1_angry_32x32_30
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 0
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83ea1e7e6a23e8f0800000000000000
+      internalID: -512519278539644020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_1_angry_32x32_31
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 0
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53396ec94382e3c0800000000000000
+      internalID: -4331755538558143649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_1_angry_32x32_32
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 0
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d262ce90d5eddb0800000000000000
+      internalID: -4765269058513392261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_1_angry_32x32_33
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 0
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b5960b3fe20c3b0800000000000000
+      internalID: -5494339921220379751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_1_angry_32x32_34
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 0
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55980438c85726920800000000000000
+      internalID: 2982075149630605653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_1_angry_32x32_35
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 0
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e605f866b08954c0800000000000000
+      internalID: -4298262848415136027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 67bd499291ff54588b36ec41868cff00
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
