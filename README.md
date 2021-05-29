@@ -15,7 +15,11 @@ Now You See Me is an online multiplayer social deduction game.
 ## Background
 This game has been created as part of a university team project module. The brief for the module was to create an online, multiplayer game. My roles during the project:
 * Assisted in ideation of features and story
-* Development of most of the main gameplay features
+* Development of a good portion of the main gameplay features and the structure of that code. Relevant script folders:
+  * [On-screen button scripts](https://github.com/kelvin589/NYSM-game/tree/main/Now%20You%20See%20Me/Assets/Scripts/UI/Buttons)
+  * [Player/role scripts](https://github.com/kelvin589/NYSM-game/tree/main/Now%20You%20See%20Me/Assets/Scripts/Players)
+    * All player scripts, excluding computer scientist and initial base movement controller
+  * [Scripts for tasks](https://github.com/kelvin589/NYSM-game/tree/main/Now%20You%20See%20Me/Assets/Scripts/UI/Tasks)
 * Provided some overall help for the team
 
 ## Story
@@ -62,6 +66,8 @@ Now You See Me (NYSM) is a 2D top-down, online multiplayer, social deduction gam
   * (More of a bug due to players dying and getting stuck in walls, but let's make it a feature)
 
 ## Possible Improvements
+* Overall code structure
+  * Speaking mainly for the structure of code I wrote for players, buttons and tasks
 * Bug fixing
 * Improved graphics and interface
 * User QOL
